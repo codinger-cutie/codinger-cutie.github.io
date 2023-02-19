@@ -119,10 +119,6 @@ nav ul li a:hover {
 
 
 
-@media (max-height: 405px) {
-  .nav-menu.active {top: 11vh;}
-}
-
 @media (prefers-color-scheme: dark) {
   body {
     background: rgb(2,0,36);
