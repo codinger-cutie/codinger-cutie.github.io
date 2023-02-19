@@ -13,7 +13,7 @@ background: linear-gradient(67deg, rgba(62,195,196,1) 0%, rgba(255,202,88,1) 100
 }
 
 nav {
-  min-height: 8vh;
+  min-height: 70px;
   background-color: rgba(0, 0, 0, 0.5);
   backdrop-filter: blur(10px);
   display: flex;
@@ -22,7 +22,7 @@ nav {
 }
 
 nav header {
-  min-height: 8vh;
+  min-height: 70px;
   background-color: darkcyan;
   display: flex;
   justify-content: space-between;
@@ -104,7 +104,7 @@ nav ul li a:hover {
   }
   nav header {
     position: absolute;
-    top: 8vh;
+    top: 70px;
     left: -100%;
     transition: 0.1s ease-in-out;
   }
