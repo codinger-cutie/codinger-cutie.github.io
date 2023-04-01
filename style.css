@@ -30,8 +30,9 @@ nav header {
   position: relative;
 }
 
-h3 {
+#logo {
   margin-left: 20px;
+  user-select: none;
 }
 
 nav header ul {
@@ -127,5 +128,5 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(
   nav {background-color: rgba(255, 255, 255, 0.5);}
   nav ul li {background-color: rgba(255, 255, 255, 0.5);}
   nav ul li a {color: white;}
-  h3 {color: white;}
+  #logo {color: white;}
 }
