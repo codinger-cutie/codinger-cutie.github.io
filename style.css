@@ -65,6 +65,10 @@ nav ul li a:hover {
   color: lightgreen;
 }
 
+#visitor-li p {
+  color: black;
+}
+
 .hamburger {
   display: none;
   cursor: pointer;
